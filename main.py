@@ -1,7 +1,7 @@
 import csv
 
 # open the text file in read, using UTF-8 encoding
-text_file = open('en.strings', 'r', encoding='utf-8')
+text_file = open('en.stringss', 'r', encoding='utf-8')
 
 # open a csv file in write
 csv_file = open('output.csv', 'w', newline='', encoding='utf-8')
