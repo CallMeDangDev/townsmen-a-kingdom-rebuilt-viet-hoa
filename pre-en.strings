@@ -834,7 +834,7 @@
 "T_CREDITS_ACKNOWLEDGMENTS" = "Chúng tôi muốn cảm ơn tất cả những người đã tham gia vào quá trình sáng tạo trò chơi này.\nMột lời cảm ơn lớn đến tất cả người hâm mộ của chúng tôi và những người hỗ trợ khác vì sự giúp đỡ và phản hồi của họ. BẠN là xương sống của trò chơi này.\n\nCảm ơn bạn vì sự hỗ trợ không ngừng!";
 "T_CREDITS_ADDITIONALCODE" = "Lập trình bổ sung";
 "T_CREDITS_CODE" = "Lập trình";
-"T_CREDITT_GAME_DESIGN" = "Thiết kế Trò chơi";
+"T_CREDITS_GAME_DESIGN" = "Thiết kế Trò chơi";
 "T_CREDITS_GFX" = "Đồ họa";
 "T_CREDITS_HR" = "Nhân sự";
 "T_CREDITS_MANAGEMENT" = "Quản lý";
